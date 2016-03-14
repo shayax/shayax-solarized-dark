@@ -1,0 +1,2 @@
+based on Ethan Schoonover's (http://ethanschoonover.com/solarized) color pallete and 
+Jacob Lauritzen's(https://github.com/Jacse/themes-for-brackets) themes-for-brackets (https://github.com/Jacse/themes-for-brackets).
