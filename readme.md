@@ -4,7 +4,7 @@ This is a modified theme based on Ethan Schoonover's (http://ethanschoonover.com
 
 Screenshot
 ==================
-![shayax-solarized-dark](https://raw.github.com/shayax/shayax-solarized-dark/screenshot.png)
+![shayax-solarized-dark](https://raw.githubusercontent.com/shayax/shayax-solarized-dark/master/screenshot.png)
 
 How to install
 ==================
